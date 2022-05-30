@@ -3,9 +3,15 @@ Github pour un projet de moniteur de vélo
 
 Vous pouvez trouvez dans ce github les fichiers 3D mais aussi le code et la carte électronique pour réaliser ce projet.
 
-Cependant il a de nombreux problèmes :
-- Ne fonctionne pas
-- ...
+Cependant il a quelques problèmes :
+- Il y a des courts circuits dans le pcb final.
+- Les vis du pcb et du boitier ne sont pas alignées.
+- Avec l'écran, le boitier ferme mal.
+- Ne fonctionne pas : On n'a jamais pu le tester entièrement assemblé, nous considerons donc que le système ne fonctionne pas.
+
+Mais aussi de belles réussites :
+- Les clignotants sont visibles.
+- Le boitier est peu encombrant.
 
 Merci de nous prévenir si vous l'améliorez pour que nous puissions faire les changements sur ce github.
 
